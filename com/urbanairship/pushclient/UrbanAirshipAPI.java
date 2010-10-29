@@ -37,7 +37,7 @@ public class UrbanAirshipAPI {
 	    OutputStream out    	= null;
 		
     	// Urban Airship Creds
-    	String login 	= Keys.URBAN_AIRSHIP_APPID+":"+Keys.URBAN_AIRSHIP_APPSECRET;
+    	String login 	= Keys.URBAN_AIRSHIP_APPKEY+":"+Keys.URBAN_AIRSHIP_APPSECRET;
     	byte[] encoded 	= null;
     	
         try {

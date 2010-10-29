@@ -71,7 +71,7 @@ public class UAHomeScreen extends MainScreen {
 		LabelField lfAppIdLabel = new LabelField(appIdLabel, Field.FIELD_BOTTOM | Field.FIELD_RIGHT);
 		lfAppIdLabel.setFont(Util.getStandardFont().derive(Font.BOLD, 24));
 		
-		String appIdString = Keys.URBAN_AIRSHIP_APPID;
+		String appIdString = Keys.URBAN_AIRSHIP_APPKEY;
 		LabelField lfAppId = new LabelField(appIdString, Field.FIELD_BOTTOM | Field.FIELD_LEFT);
 		lfAppId.setFont(Util.getStandardFont().derive(Font.PLAIN, 24));
 		

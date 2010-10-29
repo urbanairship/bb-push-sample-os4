@@ -8,6 +8,6 @@ public class Keys {
 	
 	// Urban Airship Push Settings for your application. From the Details tab 
 	// for your application @ http://go.urbanairship.com
-	public static final String URBAN_AIRSHIP_APPID				= //"your urban airship app id goes here";
+	public static final String URBAN_AIRSHIP_APPKEY				= //"your urban airship app key goes here";
 	public static final String URBAN_AIRSHIP_APPSECRET			= //"your urban airship app secret goes here";
 }
